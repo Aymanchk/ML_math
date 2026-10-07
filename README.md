@@ -16,6 +16,10 @@ This repository contains solutions for the first 7 exercises from the Pandas `Se
 6. Taxi passenger counts
 7. Short, medium and long taxi trips
 
+## Confusion matrix
+
+- [Variant 13: chest X-ray analysis](confusion_matrix_xray_variant_13.md) (basic and main levels)
+
 ## Technologies
 
 - Python
